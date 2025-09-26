@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.75923c8a.css",
-    "main.js": "/static/js/main.90f47f27.js",
+    "main.css": "/static/css/main.bf7709e9.css",
+    "main.js": "/static/js/main.e965a305.js",
     "static/media/avatar_a.png": "/static/media/avatar_a.e1e75ffa2ce4937bc839.png",
     "static/media/thingmoji_paper.pdf": "/static/media/thingmoji_paper.4880ce27079a02a8ca4d.pdf",
     "static/media/avatar_b.png": "/static/media/avatar_b.f75460b3067c7e7d8fad.png",
@@ -9,11 +9,11 @@
     "static/media/thumbnail.jpg": "/static/media/thumbnail.959004eb692460bf3bfc.jpg",
     "static/media/chi2025.svg": "/static/media/chi2025.98da4c446c41ee8707f25e92fb89c058.svg",
     "index.html": "/index.html",
-    "main.75923c8a.css.map": "/static/css/main.75923c8a.css.map",
-    "main.90f47f27.js.map": "/static/js/main.90f47f27.js.map"
+    "main.bf7709e9.css.map": "/static/css/main.bf7709e9.css.map",
+    "main.e965a305.js.map": "/static/js/main.e965a305.js.map"
   },
   "entrypoints": [
-    "static/css/main.75923c8a.css",
-    "static/js/main.90f47f27.js"
+    "static/css/main.bf7709e9.css",
+    "static/js/main.e965a305.js"
   ]
 }
