@@ -24,6 +24,7 @@ const info = {
   keywords: ["Live-Streaming", "Video-Mediated Communication", "One-To-Many Communication", "Shared Narrative"],
   links: [
     { label: "[Paper]", url: thingmoji_paper},
+    { label: "[GitHub]", url: "https://github.com/ecruhue/thingmoji"},
   ],
   venue: "ACM CSCW 2025",
   fullVenue:
