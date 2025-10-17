@@ -2,8 +2,6 @@ import React from 'react';
 import thumbnail from './material/thumbnail.jpg';
 import cscw2025 from './material/cscw2025.png';
 
-import thingmoji_paper from './material/thingmoji_paper.pdf';
-
 const myName = "Yuhan Zeng";
 
 const info = {
@@ -23,7 +21,7 @@ const info = {
   thumbnail: thumbnail,
   keywords: ["Live-Streaming", "Video-Mediated Communication", "One-To-Many Communication", "Shared Narrative"],
   links: [
-    { label: "[Paper]", url: thingmoji_paper},
+    { label: "[Paper]", url: "https://dl.acm.org/doi/10.1145/3757676"},
     { label: "[GitHub]", url: "https://github.com/ecruhue/thingmoji"},
   ],
   venue: "ACM CSCW 2025",
