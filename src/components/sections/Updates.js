@@ -26,7 +26,7 @@ const Updates = () => {
       date: "Jan 2025",
       text: (
         <>
-          One first-authored paper has been conditionally accepted for <Link link="https://chi2025.acm.org/">ACM CHI 2025</Link>!
+          One lead-authored paper has been conditionally accepted for <Link link="https://chi2025.acm.org/">ACM CHI 2025</Link>!
         </>
       ),
     },
