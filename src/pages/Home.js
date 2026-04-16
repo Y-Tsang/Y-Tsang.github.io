@@ -1,6 +1,6 @@
 import React from 'react';
 import { AnimatedSection } from '../components/ui';
-import { Bio, Updates, Publications, Service, Funding, Name } from '../components/sections';
+import { Bio, Openings, Updates, Publications, Service, Funding, Name } from '../components/sections';
 
 const Home = () => {
   return (
@@ -11,22 +11,26 @@ const Home = () => {
         </AnimatedSection>
         
         <AnimatedSection delay={100}>
+          <Openings />
+        </AnimatedSection>
+
+        <AnimatedSection delay={200}>
           <Updates />
         </AnimatedSection>
         
-        <AnimatedSection delay={200}>
+        <AnimatedSection delay={300}>
           <Publications />
         </AnimatedSection>
         
-        <AnimatedSection delay={300}>
+        <AnimatedSection delay={400}>
           <Service />
         </AnimatedSection>
         
-        <AnimatedSection delay={400}>
+        <AnimatedSection delay={500}>
           <Funding />
         </AnimatedSection>
         
-        <AnimatedSection delay={500}>
+        <AnimatedSection delay={600}>
           <Name />
         </AnimatedSection>
       </main>
