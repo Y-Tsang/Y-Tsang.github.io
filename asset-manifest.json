@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ceaf4e6b.css",
+    "main.js": "/static/js/main.865889dd.js",
+    "static/media/CityUHK_Thesis.pdf": "/static/media/CityUHK_Thesis.48de5451a72b68ea192d.pdf",
+    "static/media/CityUHK_Poster.pdf": "/static/media/CityUHK_Poster.16074f6fe0f286ba6dbe.pdf",
+    "static/media/avatar.JPG": "/static/media/avatar.578c9d5dac67cae54f36.JPG",
+    "static/media/Lund_Sweden.JPG": "/static/media/Lund_Sweden.b2c891cda7d02f87fcca.JPG",
+    "static/media/thumbnail.png": "/static/media/thumbnail.ebfdf8b1615cec618dc7.png",
+    "static/media/thumbnail_2.png": "/static/media/thumbnail_2.a48a00b8344e63f0bd78.png",
+    "static/media/thumbnail_3.png": "/static/media/thumbnail_3.ac0ddb2627eff9a18a49.png",
+    "static/media/thumbnail_1.png": "/static/media/thumbnail_1.b0dababf08699f460a5d.png",
+    "static/media/Barcelona_Spain.JPG": "/static/media/Barcelona_Spain.9fdaf97ac7e12ec8a2ef.JPG",
+    "static/media/Stockholm_Sweden.JPG": "/static/media/Stockholm_Sweden.29a1866446ef0fe64671.JPG",
+    "static/media/Bergen_Norway.JPG": "/static/media/Bergen_Norway.a6bc7c6a4eb6a2910f07.JPG",
+    "static/media/CHI2026.jpg": "/static/media/CHI2026.67467355513448dbd118.jpg",
+    "static/media/Tokyo_Japan.jpg": "/static/media/Tokyo_Japan.0690bad1315c46146918.jpg",
+    "static/media/Yokohama_Japan.jpg": "/static/media/Yokohama_Japan.d6bcd084bd5995764211.jpg",
+    "static/media/Copenhagen_Denmark.JPG": "/static/media/Copenhagen_Denmark.4c876b56e27c09efe397.JPG",
+    "static/media/Helsinki_Finland.JPG": "/static/media/Helsinki_Finland.49d0b854a1c00fe391d4.JPG",
+    "static/media/CSCW2025.JPG": "/static/media/CSCW2025.a14b63b0f5ebec101bc8.JPG",
+    "static/media/Kamakura_Japan.jpg": "/static/media/Kamakura_Japan.719c1c5948efdf9a4351.jpg",
+    "static/media/CHI2025.JPG": "/static/media/CHI2025.4532518de10f81c2dc4c.JPG",
+    "static/media/Reykjavik_Iceland.JPG": "/static/media/Reykjavik_Iceland.a2a4f82384c8fe28d805.JPG",
+    "static/media/thumbnail.jpg": "/static/media/thumbnail.959004eb692460bf3bfc.jpg",
+    "static/media/cscw2025.png": "/static/media/cscw2025.75e92af607f94311727c.png",
+    "static/media/cityuhk.png": "/static/media/cityuhk.65e98ce807966a916c8c.png",
+    "static/media/chi2025.svg": "/static/media/chi2025.98da4c446c41ee8707f25e92fb89c058.svg",
+    "index.html": "/index.html",
+    "main.ceaf4e6b.css.map": "/static/css/main.ceaf4e6b.css.map",
+    "main.865889dd.js.map": "/static/js/main.865889dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceaf4e6b.css",
+    "static/js/main.865889dd.js"
+  ]
+}
